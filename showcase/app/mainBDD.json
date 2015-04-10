@@ -1,0 +1,89 @@
+{
+  "pageTitle" : "ProDrix web site",
+  "navbar" : {
+    "objectif" : "Mes Objectifs",
+    "projet" : "Mes Projets",
+    "parcours" : "Mon Parcours"
+  },
+  "home": {
+    "welcome": "Bienvenue !",
+    "messageWelcolme": "Découvrons ensemble mon univers.",
+    "continue": "continuer"
+  },
+
+  "objectifs": {
+    "title": "MES OBJECTIFS",
+    "catchPhrase": "C'est la motivation d'atteindre mes objectifs qui me donne l'envi de me lever tous les matins!",
+    "items": [
+      {
+        "titre": "Improve my English",
+        "description": "Because the Anglais is très important! Mes capacités me permettent déjà d'être indépendant' dans un pays anglophone ou dans un contexte d'entreprise, mais je veux être encore plus à l'aise avec cette langue!",
+        "icon" : "fa fa-globe fa-stack-1x fa-inverse"
+      },
+      {
+        "titre": "Développement informatique",
+        "description": "Continuer à développer mes compétences en programmation",
+        "icon" : "fa fa-laptop fa-stack-1x fa-inverse"
+      },
+      {
+        "titre": "Sécurité Informatique",
+        "description": "Alors que peu de monde se rend compte de l'importance des protections et préventions dans le domaine de la sécurité informatique, j'en ai compris l'importance et la gravité d'omêtre de se protéger. C'est pourquoi je souhaite m'améliorer et aquérir des compétences suplémentaire dans ce domaine.",
+        "icon" : "fa fa-lock fa-stack-1x fa-inverse"
+
+      }
+    ]
+  },
+  "projets": {
+    "title": "MES PROJETS",
+    "catchPhrase": "Toujours plus loin, toujours plus haut, toujours plus fort!",
+    "items": [
+      {
+        "title": "OGL",
+        "shortDescription": "Recolte de bois sur une île virtuelle",
+        "longDescription": "Pour accèder au site de l'enseignant responsable du module c'est par ici.",
+        "image": "ile.png"
+      },
+      {
+        "title": "DeViNT",
+        "shortDescription": "Jeu pour personnes mal-voyantes",
+        "longDescription": "En partenariat avec l'Institut Clément Ader mon équipe doit développer un jeu informatique permettant de divertir de jeunes enfant malvoyants ou non voyant.",
+        "image": "/app/ressources/Images/portefolio/devint.png"
+      },
+      {
+        "title": "Play For Life",
+        "shortDescription": "Découvert de jeux de sociétés",
+        "longDescription": "Pour découvrir le site de l'évènement c'est par ici.",
+        "image": "showcase/app/ressources/Images/portefolio/PlayForLife.png"
+      }
+    ]
+  },
+
+  "parcours" : {
+    "title": "MON PARCOURS",
+    "catchPhrase": "Envi d'en apprendre un peu plus sur moi?",
+    "items": [
+      {
+        "annee": "2014-2015",
+        "title": "Mes années Polytech",
+        "side": "",
+        "description": "Ayant envi de découvrir des nouvelles personne et de changer d'environnement, je suis aller continuer mes étude sur la côte d'azur, dans l'école Polytech'Nice Sophia situé à Sophia Antipolis.",
+        "image": "/Ressources/Images/1"
+      },
+      {
+        "annee": "2012-2014",
+        "title": "Mes année IUT",
+        "side":"timeline-inverted",
+        "description": "Début des mes études en Informatique, je rejoins l'IUT Robert Shuman, un établissement muni d'un très bon parc informatique et de bon enseignants. C'est à ce moment que j'ai découvert ma passion pour les réseaux",
+        "image": "/Ressources/Images/2"
+      },
+      {
+        "annee": "2009-2012",
+        "title": "Mes années lycée",
+        "side":"",
+        "description": "Enfin la fin du collège, aah le lycée Docteur Koeberlé, que de prestige et le début de la liberté (ou pas). J'y ai suivis une formation Scientifique et appris à aimer les maths!",
+        "image": "/Ressources/Images/3"
+      }
+    ]
+  }
+
+  }
